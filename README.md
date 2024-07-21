@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidharthsudhi1
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 👀 I’m interested in Data Science, ML, DL
+- 🌱 Master of Data Science at Monash Uni
 - 📫 How to reach me-email: sidharthsudhi1@gmail.com 
 
 <!---
